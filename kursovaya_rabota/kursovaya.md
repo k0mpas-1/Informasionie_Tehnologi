@@ -8,8 +8,8 @@
 |---|---|
 | Репозиторий проекта | https://github.com/k0mpas-1/portlingva |
 | Сайт на Vercel | https://portlingva.vercel.app |
-| Описание работы | https://github.com/k0mpas-1/portlingva/blob/main/docs/opisanie.md |
-| Презентация | https://github.com/k0mpas-1/portlingva/blob/main/presentation/zashchita.pdf |
+| Описание работы | https://github.com/k0mpas-1/Informasionie_Tehnologi/blob/main/kursovaya_rabota/docs/opisanie.md |
+| Презентация | https://github.com/k0mpas-1/Informasionie_Tehnologi/blob/main/kursovaya_rabota/presentation/zashchita.pdf |
 
 **Measurement ID ресурса GA4:** G-2CZ494QV10
 
