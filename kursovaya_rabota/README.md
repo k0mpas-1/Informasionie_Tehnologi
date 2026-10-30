@@ -46,7 +46,7 @@ Measurement ID ресурса GA4: `G-2CZ494QV10`.
 
 ## Технологии
 
-HTML, CSS, JavaScript · Google Analytics 4 · Google Таблицы и Apps Script · ManyChat · GitHub и Vercel. Сайт создан с помощью ChatGPT и доработан вручную, документация оформлена с помощью Claude.
+HTML, CSS, JavaScript · Google Analytics 4 · Google Таблицы и Apps Script · ManyChat · GitHub и Vercel. Сайт создан с помощью claude и доработан вручную, документация оформлена с частичной помощью claude
 
 ## Структура
 
