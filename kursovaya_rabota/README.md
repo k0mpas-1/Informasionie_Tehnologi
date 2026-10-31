@@ -59,7 +59,6 @@ kursovaya_rabota/
   `https://portlingva.vercel.app/?utm_source=instagram&utm_medium=social&utm_campaign=trial_jan_2027&utm_content=bio`
 - [ ] Выдать преподавателю доступ Viewer к ресурсу GA4 и доступ на просмотр к таблице
 - [ ] Сделать репозиторий `portlingva` публичным, заполнить описание, Website и Topics
-- [ ] Через 24–48 часов снять отчёты GA4 с данными и заполнить `docs/report.md` в репозитории проекта
 - [ ] Прогнать доклад по презентации — уложиться в 7 минут
 
 ## Нейросеть
