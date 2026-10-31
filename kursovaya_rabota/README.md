@@ -14,7 +14,7 @@
 | Репозиторий проекта | https://github.com/k0mpas-1/portlingva |
 | Таблица заявок «Portlingva — Leads» | https://docs.google.com/spreadsheets/d/1B8_DCw0lP4tSj5M1etOccMogSZzZ1N2-YNo8vCztiaw/edit |
 | Instagram | https://www.instagram.com/k0mpas_1/ |
-| Презентация к защите (14 слайдов) | [presentation/zashchita.pdf](presentation/zashchita.pdf) |
+| Презентация к защите (12 слайдов) | [presentation/zashchita.pdf](presentation/zashchita.pdf) |
 | Описание работы | [docs/opisanie.md](docs/opisanie.md) |
 | Бланк сдачи | [kursovaya.md](kursovaya.md) |
 
