@@ -17,7 +17,7 @@
 | Reel с автоответом | https://www.instagram.com/k0mpas_1/reel/DfIJueyMrWj/ |
 
 **Measurement ID ресурса GA4:** G-2CZ494QV10
-**Доступ Viewer к ресурсу GA4 выдан:** (e-mail преподавателя)
+**Доступ Viewer к ресурсу GA4 выдан:** mmaxim02022004@gmail.com
 
 ## Перед отправкой
 
