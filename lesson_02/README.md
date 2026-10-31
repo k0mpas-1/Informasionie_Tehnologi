@@ -116,9 +116,9 @@
 ## Как сдать
 
 Работа сдаётся коммитом `hw-02: …` прямо в `main`, отдельная ветка
-не нужна. Кнопки в VS Code разобраны в [коммитах](../docs/git/README.md#3-изменения-и-коммиты)
-и [отправке на GitHub](../docs/git/README.md#отправить-на-github).
-Полный порядок сдачи — [docs/SUBMIT.md](../docs/SUBMIT.md).
+не нужна. Кнопки в VS Code разобраны в [коммитах](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/git/README.md#3-изменения-и-коммиты)
+и [отправке на GitHub](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/git/README.md#отправить-на-github).
+Полный порядок сдачи — [docs/SUBMIT.md](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/SUBMIT.md).
 
 Работа, состоящая только из текста нейросети, без реальных источников,
 кейсов, ссылок, собственного анализа и подтверждающих скриншотов,
