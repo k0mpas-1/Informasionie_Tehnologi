@@ -14,7 +14,7 @@
 | 4 | Свои события и параметры в GA4 | [lesson_04/homework_04.md](lesson_04/homework_04.md) | ✅ сдано |
 | 5 | Контролируемая таблица заявок | [lesson_05/homework_05.md](lesson_05/homework_05.md) | ✅ сдано |
 | 6 | Подготовка данных в Google Таблицах | [lesson_06/homework_06.md](lesson_06/homework_06.md) + [leads_clean.csv](lesson_06/leads_clean.csv) | ✅ сдано |
-| 7 | Instagram → ManyChat → заявка | [lesson_07/README.md](lesson_07/README.md) | ⏳ в работе |
+| 7 | Instagram → ManyChat → заявка | [lesson_07/homework_07.md](lesson_07/homework_07.md) | ✅ сдано (без теста со второго аккаунта) |
 
 ## Курсовая работа
 
