@@ -4,7 +4,7 @@
 
 **Материалы:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/10-data-studio/materials.html
 
-**Файлы занятия:** [materials/tema-10-2-datalens](../materials/tema-10-2-datalens/) —
+**Файлы занятия:** [materials/tema-10-2-datalens](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-10-2-datalens/) —
 порядок работы, спецификация дашборда, формулы, таблица сверки, чек-лист.
 
 ## Содержание лекции

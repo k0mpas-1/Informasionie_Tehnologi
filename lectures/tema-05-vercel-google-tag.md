@@ -4,7 +4,7 @@
 
 **Шаблон сайта:** https://github.com/MaximBytecamp/ga4-analytics-lab
 
-**Файлы занятия:** [materials/tema-05-vercel-google-tag](../materials/tema-05-vercel-google-tag/)
+**Файлы занятия:** [materials/tema-05-vercel-google-tag](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-05-vercel-google-tag/)
 
 **Задание в репозитории:** [`lesson_03`](../lesson_03/README.md) — тег на сайте,
 источник перехода и отчёты GA4.
@@ -92,4 +92,4 @@ Google Tag — фрагмент кода из инструкции веб-пот
 - [GA4: установка тега](https://support.google.com/analytics/answer/9304153?hl=ru)
 - [GA4: кампании, источники и сессии](https://support.google.com/analytics/answer/11242841?hl=ru)
 - [Enhanced measurement](https://support.google.com/analytics/answer/9216061?hl=ru)
-- Разбор Git по кадрам в этом репозитории: [docs/git/README.md](../docs/git/README.md)
+- Разбор Git по кадрам в этом репозитории: [docs/git/README.md](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/git/README.md)

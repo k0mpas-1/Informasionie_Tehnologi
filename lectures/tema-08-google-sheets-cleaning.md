@@ -4,7 +4,7 @@
 
 **Материалы и файлы:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/08-power-query-cleaning/materials.html
 
-**Файлы занятия:** [materials/tema-08-google-sheets-cleaning](../materials/tema-08-google-sheets-cleaning/) —
+**Файлы занятия:** [materials/tema-08-google-sheets-cleaning](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-08-google-sheets-cleaning/) —
 папка `lesson_data_cleaning` с CSV v1 и v2, резервной копией v1 и формулами.
 
 **Задание в репозитории:** [`lesson_06`](../lesson_06/README.md) — повторяемая

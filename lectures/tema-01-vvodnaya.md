@@ -2,7 +2,7 @@
 
 **Презентация:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/01-vvodnaya/index.html
 
-**Файлы занятия:** [materials/tema-01-vvodnaya](../materials/tema-01-vvodnaya/)
+**Файлы занятия:** [materials/tema-01-vvodnaya](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-01-vvodnaya/)
 
 ## Содержание лекции
 

@@ -2,7 +2,7 @@
 
 **Презентация:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/02-cifrovaya-voronka/index.html
 
-**Файлы занятия:** [materials/tema-02-cifrovaya-voronka](../materials/tema-02-cifrovaya-voronka/) —
+**Файлы занятия:** [materials/tema-02-cifrovaya-voronka](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-02-cifrovaya-voronka/) —
 полный конспект, стенд с формой заявки, исследовательское задание.
 
 **Задание в репозитории:** [`lesson_01`](../lesson_01/README.md) и первая часть

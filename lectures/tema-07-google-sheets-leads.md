@@ -4,7 +4,7 @@
 
 **Материалы и код:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/07-google-sheets-leads/materials.html
 
-**Файлы занятия:** [materials/tema-07-google-sheets-leads](../materials/tema-07-google-sheets-leads/) —
+**Файлы занятия:** [materials/tema-07-google-sheets-leads](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-07-google-sheets-leads/) —
 приёмник `Code.gs`, фрагмент формы `form.html`, обработчик `lead-form.js`,
 пошаговая практика.
 

@@ -2,7 +2,7 @@
 
 **Презентация:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/04-google-analytics-4/index.html
 
-**Файлы занятия:** [materials/tema-04-google-analytics-4](../materials/tema-04-google-analytics-4/)
+**Файлы занятия:** [materials/tema-04-google-analytics-4](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-04-google-analytics-4/)
 
 **Задание в репозитории:** вторая часть [`lesson_02`](../lesson_02/README.md) —
 структура GA4 по материалам презентации.

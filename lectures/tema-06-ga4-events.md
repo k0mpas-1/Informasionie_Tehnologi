@@ -4,7 +4,7 @@
 
 **Материалы и код:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/06-ga4-events/materials.html
 
-**Файлы занятия:** [materials/tema-06-ga4-events](../materials/tema-06-ga4-events/) —
+**Файлы занятия:** [materials/tema-06-ga4-events](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-06-ga4-events/) —
 пошаговая практика, сайт-пример из трёх страниц, готовые `index.html`,
 `contacts.html` и `js/metrics.js`.
 

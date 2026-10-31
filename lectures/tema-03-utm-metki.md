@@ -2,7 +2,7 @@
 
 **Презентация:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/03-utm-metki/index.html
 
-**Файлы занятия:** [materials/tema-03-utm-metki](../materials/tema-03-utm-metki/) —
+**Файлы занятия:** [materials/tema-03-utm-metki](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-03-utm-metki/) —
 полный конспект, пошаговая практика с кадрами, стенд со скрытыми полями.
 
 **Где используется в репозитории:** ссылка с метками проверяется в заданиях

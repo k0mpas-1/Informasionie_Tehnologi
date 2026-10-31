@@ -88,8 +88,8 @@ https://ВАШ-ПРОЕКТ.vercel.app/guide.html?utm_source=instagram&utm_mediu
 снимается с телефона.
 
 Работа сдаётся коммитом `hw-07: …` прямо в `main`, отдельная ветка
-не нужна. Кнопки в VS Code разобраны в [коммитах](../docs/git/README.md#3-изменения-и-коммиты)
-и [отправке на GitHub](../docs/git/README.md#отправить-на-github).
+не нужна. Кнопки в VS Code разобраны в [коммитах](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/git/README.md#3-изменения-и-коммиты)
+и [отправке на GitHub](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/git/README.md#отправить-на-github).
 
 ## Аккаунты и личные данные
 

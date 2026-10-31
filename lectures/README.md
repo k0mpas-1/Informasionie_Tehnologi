@@ -6,24 +6,24 @@
 материалов и документацию сервисов.
 
 Файлы, которые раздавались на занятиях (стенды, код, CSV, шаблоны отчётов),
-лежат отдельно, в папке [`materials`](../materials/README.md), по одной
+лежат отдельно, в папке [`materials`](https://github.com/MaximBytecamp/funnel-project-template/blob/main/materials/README.md), по одной
 папке на тему.
 
 ## Темы
 
 | Тема | Конспект | Файлы занятия | Задание в репозитории |
 |---|---|---|---|
-| 1 · Вводное занятие | [tema-01](tema-01-vvodnaya.md) | [materials/tema-01](../materials/tema-01-vvodnaya/) | — |
-| 2 · Цифровая воронка | [tema-02](tema-02-cifrovaya-voronka.md) | [materials/tema-02](../materials/tema-02-cifrovaya-voronka/) | [`lesson_01`](../lesson_01/README.md), часть 1 [`lesson_02`](../lesson_02/README.md) |
-| 3 · UTM-метки | [tema-03](tema-03-utm-metki.md) | [materials/tema-03](../materials/tema-03-utm-metki/) | метки проверяются в [`lesson_03`](../lesson_03/README.md) |
-| 4 · Google Analytics 4 | [tema-04](tema-04-google-analytics-4.md) | [materials/tema-04](../materials/tema-04-google-analytics-4/) | часть 2 [`lesson_02`](../lesson_02/README.md) |
-| 5 · Свой сайт, Vercel и Google Tag | [tema-05](tema-05-vercel-google-tag.md) | [materials/tema-05](../materials/tema-05-vercel-google-tag/) | [`lesson_03`](../lesson_03/README.md) |
-| 6 · События и параметры GA4 | [tema-06](tema-06-ga4-events.md) | [materials/tema-06](../materials/tema-06-ga4-events/) | [`lesson_04`](../lesson_04/README.md) |
-| 7 · Контролируемая таблица заявок | [tema-07](tema-07-google-sheets-leads.md) | [materials/tema-07](../materials/tema-07-google-sheets-leads/) | [`lesson_05`](../lesson_05/README.md) |
-| 8 · Google Таблицы: подготовка данных | [tema-08](tema-08-google-sheets-cleaning.md) | [materials/tema-08](../materials/tema-08-google-sheets-cleaning/) | [`lesson_06`](../lesson_06/README.md) |
-| 9 · Instagram → ManyChat → заявка | [tema-09](tema-09-instagram-manychat.md) | [materials/tema-09](../materials/tema-09-instagram-manychat/) | [`lesson_07`](../lesson_07/README.md) |
-| 10 · GA4: отчёты и исследования | [tema-10](tema-10-ga4-explorations.md) | [materials/tema-10](../materials/tema-10-ga4-explorations/) | задание выдаётся отдельно |
-| 10.2 · DataLens: GA4 и заявки | [tema-10-2](tema-10-2-datalens.md) | [materials/tema-10-2](../materials/tema-10-2-datalens/) | задание выдаётся отдельно |
+| 1 · Вводное занятие | [tema-01](tema-01-vvodnaya.md) | [materials/tema-01](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-01-vvodnaya/) | — |
+| 2 · Цифровая воронка | [tema-02](tema-02-cifrovaya-voronka.md) | [materials/tema-02](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-02-cifrovaya-voronka/) | [`lesson_01`](../lesson_01/README.md), часть 1 [`lesson_02`](../lesson_02/README.md) |
+| 3 · UTM-метки | [tema-03](tema-03-utm-metki.md) | [materials/tema-03](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-03-utm-metki/) | метки проверяются в [`lesson_03`](../lesson_03/README.md) |
+| 4 · Google Analytics 4 | [tema-04](tema-04-google-analytics-4.md) | [materials/tema-04](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-04-google-analytics-4/) | часть 2 [`lesson_02`](../lesson_02/README.md) |
+| 5 · Свой сайт, Vercel и Google Tag | [tema-05](tema-05-vercel-google-tag.md) | [materials/tema-05](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-05-vercel-google-tag/) | [`lesson_03`](../lesson_03/README.md) |
+| 6 · События и параметры GA4 | [tema-06](tema-06-ga4-events.md) | [materials/tema-06](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-06-ga4-events/) | [`lesson_04`](../lesson_04/README.md) |
+| 7 · Контролируемая таблица заявок | [tema-07](tema-07-google-sheets-leads.md) | [materials/tema-07](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-07-google-sheets-leads/) | [`lesson_05`](../lesson_05/README.md) |
+| 8 · Google Таблицы: подготовка данных | [tema-08](tema-08-google-sheets-cleaning.md) | [materials/tema-08](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-08-google-sheets-cleaning/) | [`lesson_06`](../lesson_06/README.md) |
+| 9 · Instagram → ManyChat → заявка | [tema-09](tema-09-instagram-manychat.md) | [materials/tema-09](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-09-instagram-manychat/) | [`lesson_07`](../lesson_07/README.md) |
+| 10 · GA4: отчёты и исследования | [tema-10](tema-10-ga4-explorations.md) | [materials/tema-10](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-10-ga4-explorations/) | задание выдаётся отдельно |
+| 10.2 · DataLens: GA4 и заявки | [tema-10-2](tema-10-2-datalens.md) | [materials/tema-10-2](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-10-2-datalens/) | задание выдаётся отдельно |
 
 Все презентации открываются со страницы дисциплины:
 https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/index.html

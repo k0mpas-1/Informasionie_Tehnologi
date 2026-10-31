@@ -4,7 +4,7 @@
 
 **Материалы:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/10-ga4-explorations/materials.html
 
-**Файлы занятия:** [materials/tema-10-ga4-explorations](../materials/tema-10-ga4-explorations/) —
+**Файлы занятия:** [materials/tema-10-ga4-explorations](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-10-ga4-explorations/) —
 шаблон анализа, чек-лист, таблица соответствия полей.
 
 ## Содержание лекции

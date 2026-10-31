@@ -4,7 +4,7 @@
 
 **Материалы и тексты для копирования:** https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/09-instagram-manychat/materials.html
 
-**Файлы занятия:** [materials/tema-09-instagram-manychat](../materials/tema-09-instagram-manychat/) —
+**Файлы занятия:** [materials/tema-09-instagram-manychat](https://github.com/MaximBytecamp/funnel-project-template/tree/main/materials/tema-09-instagram-manychat/) —
 страница `guide.html` с кодом `guide.js`, тексты сообщений, список проверок.
 
 **Задание в репозитории:** [`lesson_07`](../lesson_07/README.md) — цепочка
