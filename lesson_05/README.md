@@ -80,8 +80,8 @@ https://ВАШ-ПРОЕКТ.vercel.app/contacts.html?utm_source=telegram&utm_med
 в таблицу не вписываются.
 
 Работа сдаётся коммитом `hw-05: …` прямо в `main`, отдельная ветка
-не нужна. Кнопки в VS Code разобраны в [коммитах](../docs/git/README.md#3-изменения-и-коммиты)
-и [отправке на GitHub](../docs/git/README.md#отправить-на-github).
+не нужна. Кнопки в VS Code разобраны в [коммитах](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/git/README.md#3-изменения-и-коммиты)
+и [отправке на GitHub](https://github.com/MaximBytecamp/funnel-project-template/blob/main/docs/git/README.md#отправить-на-github).
 
 ## Доступ к таблице
 
