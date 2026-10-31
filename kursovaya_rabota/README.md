@@ -1,61 +1,67 @@
-# Портлингва — сайт и сквозная аналитика заявок
+# Курсовая работа · «Портлингва»
 
-Практическая работа по дисциплине ОП.03 «Информационные технологии», ТЗ № ТЗ-05/2026, АНО ДО «Портлингва». Исполнитель: Михеев Николай Сергеевич, группа РПО-26/1/11.
-
-Сайт школы иностранных языков: каждый посетитель приходит с меткой источника, каждая заявка попадает в Google Таблицу, а по данным GA4 видно, какой канал приводит клиентов.
+**Сайт языковой школы и сквозная аналитика заявок**
+ОП.03 «Информационные технологии» · ТЗ № ТЗ-05/2026 · АНО ДО «Портлингва»
+Михеев Николай Сергеевич, группа РПО-26/1/11
 
 ![Схема работы](docs/scheme.png)
 
 ## Ссылки
 
-| Что | Ссылка |
+| Что | Где |
 |---|---|
 | Сайт | https://portlingva.vercel.app |
-| Репозиторий | https://github.com/k0mpas-1/portlingva |
+| Репозиторий проекта | https://github.com/k0mpas-1/portlingva |
+| Таблица заявок «Portlingva — Leads» | https://docs.google.com/spreadsheets/d/1B8_DCw0lP4tSj5M1etOccMogSZzZ1N2-YNo8vCztiaw/edit |
+| Instagram | https://www.instagram.com/k0mpas_1/ |
+| Презентация к защите (14 слайдов) | [presentation/zashchita.pdf](presentation/zashchita.pdf) |
 | Описание работы | [docs/opisanie.md](docs/opisanie.md) |
-| Реестр UTM-ссылок | [docs/utm-registry.md](docs/utm-registry.md) |
-| События GA4 | [docs/events.md](docs/events.md) |
-| Запросы к ИИ | [docs/prompts.md](docs/prompts.md) |
-| Презентация к защите | [presentation/zashchita.pdf](presentation/zashchita.pdf) |
+| Бланк сдачи | [kursovaya.md](kursovaya.md) |
 
-Measurement ID ресурса GA4: `G-2CZ494QV10`.
+GA4: ресурс «Портлингва», Measurement ID `G-2CZ494QV10`.
 
-## Что сделано
-
-| Часть | Результат |
-|---|---|
-| Сайт | 10 страниц, статический HTML/CSS/JS, опубликован на Vercel |
-| GA4 | ресурс создан, Measurement ID `G-2CZ494QV10`, события отправляются из `js/analytics.js` |
-| UTM | реестр из 7 ссылок с метками source, medium и campaign |
-| Заявки | форма → Google Apps Script → лист `leads`, проверка полей и повторов по `request_id` |
-| Instagram | автоответы ManyChat на комментарий под Reel с кнопкой на сайт в Direct |
-| Отчёты | Reports и Explore в GA4, воронка заявки |
-
-## Страницы сайта
-
-- `index.html` — главная
-- `courses.html` — курсы
-- `level-test.html` — тест уровня из 12 вопросов
-- `teachers.html` — преподаватели
-- `prices.html` — цены
-- `phrases.html` — 50 фраз и промокод
-- `contacts.html` — форма заявки
-- `thanks.html` — подтверждение
-- `privacy.html` — политика конфиденциальности
-- `404.html` — страница ошибки
-
-## Технологии
-
-HTML, CSS, JavaScript · Google Analytics 4 · Google Таблицы и Apps Script · ManyChat · GitHub и Vercel. Сайт создан с помощью claude и доработан вручную, документация оформлена с частичной помощью claude
-
-## Структура
+## Состав папки
 
 ```
-index.html …         страницы сайта
-js/analytics.js      события GA4
-js/form.js           отправка формы
-apps-script/Code.gs  приёмник заявок
-docs/                описание, реестр UTM, события, запросы к ИИ, схема
-screens/             скриншоты по разделам ТЗ
-presentation/        презентация к защите
+kursovaya_rabota/
+├── README.md             этот файл
+├── kursovaya.md          бланк сдачи с чек-листом
+├── docs/
+│   ├── opisanie.md       описание работы по разделам ТЗ
+│   ├── events.md         20 событий GA4 с файлом и строкой
+│   ├── utm-registry.md   реестр 12 UTM-ссылок
+│   ├── prompts.md        журнал запросов к нейросети
+│   └── scheme.png        схема работы
+└── presentation/
+    └── zashchita.pdf     презентация к защите
 ```
+
+Код сайта, приёмник заявок, инструкции и скриншоты — в репозитории проекта [k0mpas-1/portlingva](https://github.com/k0mpas-1/portlingva).
+
+## Статус по разделам ТЗ
+
+| Раздел | Статус | Результат |
+|---|---|---|
+| 3. Сайт | ✅ | 10 страниц на Vercel, адаптив 375 / 768 / 1280, Lighthouse mobile 99 / 94 / 100 / 100 |
+| 4. GA4 | ✅ | 20 событий из `js/analytics.js`, 7 пользовательских параметров, 3 ключевых события, правило `lang_to_language` |
+| 5. UTM | ✅ | 12 ссылок, QR-код U-12, афиша A4 |
+| 6. Заявки | ✅ | форма → Apps Script → лист `leads`, проверка, защита от дублей, статусы до оплаты |
+| 7. Instagram | ✅ | бизнес-аккаунт, Reel «5 фраз», ManyChat Live: ветки ФРАЗЫ (U-02) и КИТАЙСКИЙ (U-03) |
+| 8. Отчёты GA4 | ✅ | свободная форма, воронка (4 вкладки), путь, обратный путь, атрибуция, оповещение |
+| 8.4. DataLens | ❌ | сервис не работал; описание дашборда — [docs/datalens.md](https://github.com/k0mpas-1/portlingva/blob/main/docs/datalens.md) |
+| Публикации VK, Telegram, YouTube | ❌ | не публиковались; ссылки U-05…U-09 готовы в реестре |
+| Живой тест ManyChat | ⚠️ | нет второго аккаунта Instagram; сценарии проверены в предпросмотре |
+| 11. Документация | ✅ | README проекта, описание, события, UTM, запросы к ИИ, презентация |
+
+## Что осталось сделать перед сдачей
+
+- [ ] Добавить ссылку U-01 в профиль Instagram (с телефона: «Редактировать профиль» → «Ссылки»):
+  `https://portlingva.vercel.app/?utm_source=instagram&utm_medium=social&utm_campaign=trial_jan_2027&utm_content=bio`
+- [ ] Выдать преподавателю доступ Viewer к ресурсу GA4 и доступ на просмотр к таблице
+- [ ] Сделать репозиторий `portlingva` публичным, заполнить описание, Website и Topics
+- [ ] Через 24–48 часов снять отчёты GA4 с данными и заполнить `docs/report.md` в репозитории проекта
+- [ ] Прогнать доклад по презентации — уложиться в 7 минут
+
+## Нейросеть
+
+Claude — подсказки по коду, текстам и документации. Запросы — в [docs/prompts.md](docs/prompts.md).
